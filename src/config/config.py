@@ -1,0 +1,1 @@
+config_uri = 'postgresql://postgres:Erwin23154@localhost:5432/construction_company'
